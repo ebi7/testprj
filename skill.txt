@@ -1,0 +1,97 @@
+施設予約管理WEBシステム				
+	某施設の利用者の登録・管理、施設利用の予約を行うシステムの開発			
+稼動環境：	Linux、Apache
+関連技術：	PHP,PostgreSQL
+				
+				
+				
+ezPublish CMS機能調査				
+	ezPublish CMSシステムの機能調査を行った。			
+稼動環境：	Linux、Apache
+関連技術：	PHP,MySQL
+				
+				
+				
+ezPublish CMSカスタマイズ				
+	ezPublish CMSシステムのカスタマイズを行った。			
+稼動環境：	Linux、Apache
+関連技術：	PHP,MySQL
+				
+				
+				
+印刷アプリケーション機能追加				
+	Windows向けの葉書宛名印刷ソフトウェアの機能を拡張した。			
+稼動環境：	Windows		
+関連技術：	C/C++、MFC、ACCESS		
+				
+				
+				
+				
+図書検索Webシステム改良				
+	WEBにて図書の在庫管理・閲覧・検索を行うことができるシステムに機能の追加拡張を実施。			
+稼動環境：	Windows,Linux		
+関連技術：	JavaServret,MySQL		
+				
+				
+				
+会員向け交流サイトWEBシステム				
+	某会員に向けたCMS・アンケートを収集する機能を持ったサイト			
+稼動環境：	Linux、Apache
+関連技術：	PHP,MySQL
+				
+				
+				
+印刷アプリケーション機能追加				
+	Windows向けの葉書宛名印刷ソフトウェアの機能を拡張した。			
+稼動環境：	Windows		
+関連技術：	C/C++、MFC、ACCESS		
+				
+				
+				
+Android向けアプリ				
+	Android向けテーブルゲームアプリの開発			
+稼動環境：	Android		
+関連技術：	Java,OpenGL		
+関連技術：	PHP,MySQL		
+				
+				
+				
+Android向けアプリカスタマイズ				
+	Android向けテーブルゲームアプリのカスタマイズ			
+稼動環境：	Android		
+関連技術：	Java,OpenGL		
+関連技術：	PHP,MySQL		
+				
+				
+				
+iPhone向けアプリ				
+	iPhone向けテーブルゲームアプリの開発			
+稼動環境：	iOS		
+関連技術：	Objective-C,OpenGL		
+関連技術：	PHP,MySQL		
+				
+				
+				
+GREE向けAndroidネイティブアプリ				
+	GREE向けテーブルゲームのAndroidネイティブアプリ			
+稼動環境：	Android、GREE platform		
+関連技術：	Java,OpenGL		
+関連技術：	PHP,MySQL		
+				
+				
+				
+iPhone向けアプリ				
+	iPhone向けテーブルゲームアプリの開発			
+稼動環境：	iOS		
+関連技術：	Objective-C,OpenGL		
+関連技術：	PHP,MySQL		
+				
+			
+iPhone向けアプリカスタマイズ				
+	iPhone向けテーブルゲームアプリのカスタマイズ			
+稼動環境：	iOS		
+関連技術：	Objective-C,OpenGL		
+関連技術：	PHP,MySQL		
+				
+				
+				
